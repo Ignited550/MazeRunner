@@ -1,0 +1,9 @@
+{
+  "name": "Unity.RenderPipelines.Universal.Runtime",
+  "references": [
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.Mathematics",
+    "Unity.RenderPipeline.Universal.ShaderLibrary"
+  ],
+  "allowUnsafeCode": true
+}
